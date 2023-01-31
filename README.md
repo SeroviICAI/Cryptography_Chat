@@ -5,5 +5,8 @@ This is an encrypted local messaging app. The objective behing this project was 
 ## How to run
 Run criptochat.py in your computer.
 
+## User Interface
+![ui app](https://github.com/SeroviICAI/Cryptography_Chat/blob/master/images/screenshot_crypto.PNG)
+
 ## More information
 Read code documentation and pdf (in spanish)
